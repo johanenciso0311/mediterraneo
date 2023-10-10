@@ -1,0 +1,49 @@
+body { background-color: #218db1;
+
+}
+
+.hola { 
+    
+    background-color: azure;
+    text-align:center;
+    color:#218db1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.holis {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+}
+
+li {
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ll { 
+    background-color: azure ;
+    padding: 6%;
+}
+
+.barco { 
+    
+    width: 3%;
+    
+
+}
+
+.parrafos {
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.rojo
+{            
+
+}
+ 
+
+.amarillo { 
+    
+}
